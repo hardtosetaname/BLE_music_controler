@@ -1,1 +1,2 @@
 BLE_music_controler
+基于esp32的蓝牙音乐控制器。
